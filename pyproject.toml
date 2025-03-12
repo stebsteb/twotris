@@ -1,0 +1,9 @@
+[project]
+name = "twotris"
+version = "0.1.0"
+description = "Two games of Tetris at once with Pygame"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame>=2.6.1",
+]
